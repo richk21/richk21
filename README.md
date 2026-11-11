@@ -26,6 +26,7 @@ Full-stack developer and recent Computer Science graduate (B.Tech, VIT Vellore �
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,15 +59,6 @@ Full write-ups with screenshots: **[richakiran21.netlify.app](https://richakiran
 ### Certifications
 
 `Microsoft Certified: Azure Fundamentals (AZ-900)` · `Microsoft Certified: Security, Compliance & Identity Fundamentals (SC-900)` · `Google Cloud — Getting Started with Smart Contracts` · [see all →](https://richakiran21.netlify.app/#certifications)
-
----
-
-<div align="center">
-
-![Richa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richk21&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=6C63FF&text_color=9AA4C7&bg_color=060818)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richk21&layout=compact&hide_border=true&title_color=38BDF8&text_color=9AA4C7&bg_color=060818)
-
-</div>
 
 ---
 
